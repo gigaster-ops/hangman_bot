@@ -4,7 +4,7 @@
 
 <h1>Использование</h1>
 <code>git clone https://github.com/gigaster-ops/hungman_bot</code><br>
-<span>Также создайте файл <code>settings.py</code> и сохраните там свой <code>API_TOKEN</code></span>
+<span>Также создайте файл <code>settings.py</code> и сохраните там свой <code>API_TOKEN</code></span><br>
 <code>python main.py</code>
 
 <h1>Пример</h1>
